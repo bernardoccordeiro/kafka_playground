@@ -41,3 +41,4 @@ The message "Test" is being sent to Kafka. The rule for partitioning is if the f
 ## TODO 
 
 - Make a Golang and Python versions of this script to communicate with Kafka.
+- Try to run Kafka/Zookeeper locally instead of just using Docker.
